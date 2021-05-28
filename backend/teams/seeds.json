@@ -1,0 +1,10 @@
+{
+  "model": "teams.team",
+  "pk": 1,
+  "fields": {
+  "team_name": "Blazing United",
+  "abbreviation": "BLZ",
+  "team_logo": "united.jpg",
+  "formation": 4
+  }
+}
